@@ -1,4 +1,4 @@
-# About me, Sasaki Kenski
+# About me, Daniel Armstrong
 Senior Blockchain Developer with 3 Years of Experience in Web3
 
 A self-motivated, self-starter with a well-rounded and developed understanding of the blockchain ecosystem and the best practices for secure and cost-effective smart contract programming.
@@ -22,7 +22,7 @@ I enjoy being challenged against interesting web3 hackathons every weekend and r
 
 
 ## Contact Me 📫
-LinkedIn: [<b>Sasaki Kenski - Blockchain Developer</b>](https://www.linkedin.com/in/sasaki-kenski/)
+LinkedIn: [<b>Daniel Armstrong - Blockchain Developer</b>](https://www.linkedin.com/in/daniel-armstrong90/)
 
 <!--
 **web3-master/web3-master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
