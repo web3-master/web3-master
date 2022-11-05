@@ -10,8 +10,8 @@ I enjoy being challenged against interesting web3 hackathons every weekend and r
 - Blockchains: Ethereum, Polygon, Solana
 - Languages: Solidity, Rust, JavaScript
 - Frameworks: Hardhat, Truffle, Anchor, Node.js, 
-- Libraries: OpenZeppelin, MetaPlex, Web3.js, Ethers.js, TypeChain, Waffle, Chai, React.js, Vue.js, Antd, libsnark
-- Tools: Ganache, Remix, MetaMask, Infura, IPFS, Slither
+- Libraries: OpenZeppelin, MetaPlex, Web3.js, Ethers.js, TypeChain, Waffle, Chai, React.js, Vue.js, Antd, libsnark, circom
+- Tools: Ganache, Remix, MetaMask, Infura, IPFS, Slither, snarkjs
 - Protocols: ERC20, ERC721, ERC1155, EIP-2535 Diamond Standard, UniSwap, AAVE, Compound, zkSNARK
 
 
