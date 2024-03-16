@@ -1,10 +1,19 @@
 # About me, Daniel Armstrong
 An independent blockchain security researcher currently active in audit contests on platforms such as Code4rena, Sherlock, and Immunefi.
 
-## Profiles
+## Major Highlights 🏆
+- [🥉3rd placing in Sherlock contest for Olympus RBS 2.0](https://x.com/sherlockdefi/status/1759934562488967389?s=20)
+- [🥉3rd placing in Sherlock contest for Avail](https://x.com/sherlockdefi/status/1751899064524795966?s=20)
+
+## Profiles, Contact Me 📫
 - Sherlock - [dany.armstrong90](https://audits.sherlock.xyz/watson/dany.armstrong90)
 - Code4rena - [Daniel Armstrong](https://code4rena.com/@DanielArmstrong)
 - X - [@daniel_arms90](https://twitter.com/daniel_arms90)
+- Email - dany.armstrong90@gmail.com
+- Telegram - [@danyarmstrong](https://t.co/z2Dh3zpqj3)
+- Discord - #dany_armstrong
+
+I am always looking for new opportunities be it a job opening, private audit/security review, or simply for collaborations. Feel free to reach out.
 
 ## Hard Skills ⚔️
 - Blockchains: Ethereum, Polygon, Solana
@@ -50,13 +59,6 @@ An independent blockchain security researcher currently active in audit contests
 | [DFX Finance](https://bugs.immunefi.com/dashboard/submission/26076) | Stablecoin Swap, DEX | Medium | Immunefi | 2023.11 |
 
 
-## Contact Me 📫
-
-- Email - dany.armstrong90@gmail.com
-- Telegram - @danyarmstrong
-- Discord - #dany_armstrong
-
-I am always looking for new opportunities be it a job opening, private audit/security review, or simply for collaborations. Feel free to reach out.
 
 <!--
 **web3-master/web3-master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
