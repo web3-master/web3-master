@@ -1,5 +1,5 @@
 # About me, Daniel Armstrong
-Senior security researcher who specializes in smart contract audits.
+An independent blockchain security researcher currently active in audit contests on platforms such as Code4rena, Sherlock, and Immunefi.
 
 ## Profiles
 - Sherlock - [dany.armstrong90](https://audits.sherlock.xyz/watson/dany.armstrong90)
@@ -55,6 +55,8 @@ Senior security researcher who specializes in smart contract audits.
 - Email - dany.armstrong90@gmail.com
 - Telegram - @danyarmstrong
 - Discord - #dany_armstrong
+
+I am always looking for new opportunities be it a job opening, private audit/security review, or simply for collaborations. Feel free to reach out.
 
 <!--
 **web3-master/web3-master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
