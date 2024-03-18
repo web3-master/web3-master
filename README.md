@@ -13,8 +13,6 @@ An independent blockchain security researcher currently active in audit contests
 - Telegram - [@danyarmstrong](https://t.co/z2Dh3zpqj3)
 - Discord - #dany_armstrong
 
-I am always looking for new opportunities be it a job opening, private audit/security review, or simply for collaborations. Feel free to reach out.
-
 ## Hard Skills ⚔️
 - Blockchains: Ethereum, Polygon, Solana
 - Languages: Solidity, Rust, JavaScript, TypeScript
