@@ -31,7 +31,7 @@ An independent blockchain security researcher currently active in audit contests
 | [Covalent](https://audits.sherlock.xyz/contests/127) | Staking | Sherlock | [📝](https://github.com/web3-master/audit-reports/blob/main/sherlock/2023-11-covalent/report.md) | 2024.2 |
 | [Avail](https://audits.sherlock.xyz/contests/146) | Data Availability | Sherlock | - | 2024.2 |
 | [Curves](https://code4rena.com/audits/2024-01-curves) | DEX, Curves | C4R | - | 2024.2 |
-| [JOJO Exchange Update](https://audits.sherlock.xyz/contests/136) | Perpetual | Sherlock | - | 2024.2 |
+| [JOJO Exchange Update](https://audits.sherlock.xyz/contests/136) | Perpetual | Sherlock | [📝](https://github.com/web3-master/audit-reports/blob/main/sherlock/2023-12-jojo-exchange-update/report.md) | 2024.2 |
 | [EthereumCreditGuild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | Lending | C4R | - | 2024.2 |
 | [reNFT](https://code4rena.com/audits/2024-01-renft) | NFT | C4R | - | 2024.2 |
 | [LooksRare](https://audits.sherlock.xyz/contests/163) | NFT Marketplace | Sherlock | - | 2024.2 |
