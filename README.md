@@ -35,7 +35,7 @@ An independent blockchain security researcher currently active in audit contests
 | [EthereumCreditGuild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | Lending | C4R | - | 2024.2 |
 | [reNFT](https://code4rena.com/audits/2024-01-renft) | NFT | C4R | - | 2024.2 |
 | [LooksRare](https://audits.sherlock.xyz/contests/163) | NFT Marketplace | Sherlock | [📝](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-01-looksrare/report.md) | 2024.2 |
-| [OlympusRBS2.0](https://audits.sherlock.xyz/contests/128) | Stablecoin | Sherlock | - | 2024.1 |
+| [OlympusRBS2.0](https://audits.sherlock.xyz/contests/128) | Stablecoin | Sherlock | [📝](https://github.com/web3-master/audit-reports/blob/main/sherlock/2023-11-olympus/report.md) | 2024.1 |
 | [Truflation](https://audits.sherlock.xyz/contests/151) | Staking | Sherlock | - | 2024.1 |
 | [Footium](https://audits.sherlock.xyz/contests/131) | Game Token | Sherlock | - | 2024.1 |
 | [Revolution](https://code4rena.com/audits/2023-12-revolution-protocol) | NFT Auction | C4R | - | 2024.1 |
