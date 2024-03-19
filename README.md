@@ -39,7 +39,7 @@ An independent blockchain security researcher currently active in audit contests
 | [Truflation](https://audits.sherlock.xyz/contests/151) | Staking | Sherlock | [📝](https://github.com/web3-master/audit-reports/blob/main/sherlock/2023-12-truflation/report.md) | 2024.1 |
 | [Footium](https://audits.sherlock.xyz/contests/131) | Game Token | Sherlock | - | 2024.1 |
 | [Revolution](https://code4rena.com/audits/2023-12-revolution-protocol) | NFT Auction | C4R | - | 2024.1 |
-| [NounsBuilder](https://audits.sherlock.xyz/contests/111) | DAO | Sherlock | - | 2023.12 |
+| [NounsBuilder](https://audits.sherlock.xyz/contests/111) | DAO | Sherlock | [📝](https://github.com/web3-master/audit-reports/blob/main/sherlock/2023-09-nounsbuilder/report.md) | 2023.12 |
 | [NextGen](https://code4rena.com/audits/2023-10-nextgen) | NFT | C4R | - | 2023.12 |
 | [KelpDao](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | Liquidity Restaking | C4R | - | 2023.12 |
 | [MaiaDao](https://code4rena.com/contests/2023-09-maia-dao-ulysses) | Omnichain Liquidity | C4R | - | 2023.11 |
