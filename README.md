@@ -44,7 +44,7 @@ An independent blockchain security researcher currently active in audit contests
 | [KelpDao](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | Liquidity Restaking | C4R | - | 2023.12 |
 | [MaiaDao](https://code4rena.com/contests/2023-09-maia-dao-ulysses) | Omnichain Liquidity | C4R | - | 2023.11 |
 | [AlloV2](https://audits.sherlock.xyz/contests/109) | Vault Strategy | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2023-09-gitcoin/report.md) | 2023.11 |
-| [Dopex](https://code4rena.com/contests/2023-08-dopex) | Synthetic Coin | C4R | - | 2023.11 |
+| [Dopex](https://code4rena.com/contests/2023-08-dopex) | Synthetic Coin | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2023-08-dopex/report.md) | 2023.11 |
 | [GoodEntry](https://code4rena.com/contests/2023-08-good-entry) | UniswapV3, Perpetual Option | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2023-08-goodentry/report.md) | 2023.9 |
 | [TokenSoft](https://audits.sherlock.xyz/contests/100) | Token Vesting | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2023-06-tokensoft/report.md) | 2023.8 |
 | [Index Update](https://audits.sherlock.xyz/contests/91) | Token Issuance Strategy | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2023-06-Index/report.md) | 2023.8 |
