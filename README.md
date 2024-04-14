@@ -4,6 +4,7 @@ An independent blockchain security researcher currently active in audit contests
 ## Major Highlights 🏆
 - [🥉3rd placing in Sherlock contest for Olympus RBS 2.0](https://x.com/sherlockdefi/status/1759934562488967389?s=20)
 - [🥉3rd placing in Sherlock contest for Avail](https://x.com/sherlockdefi/status/1751899064524795966?s=20)
+- [Certified Risk Finder in Sherlock (Top 2.38%)](https://audits.sherlock.xyz/profile/milestones/25274)
 
 ## Profiles, Contact Me 📫
 - Sherlock - [dany.armstrong90](https://audits.sherlock.xyz/watson/dany.armstrong90)
