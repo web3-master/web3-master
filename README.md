@@ -26,6 +26,7 @@ An independent blockchain security researcher currently active in audit contests
 
 | Contest | Category | Site | Report | Date |
 | - | - | :-: | :-: | :-: |
+| [RevertLend](https://code4rena.com/audits/2024-03-revert-lend) | UniswapV3, Lending | C4R | - | 2024.4 |
 | [AiArena](https://code4rena.com/audits/2024-02-ai-arena#top) | On-chain AI Game | C4R | - | 2024.3 |
 | [AltheaLiquid](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure) | On-chain Liquidity | C4R | - | 2024.3 |
 | [FlatMoney](https://audits.sherlock.xyz/contests/132) | ETH Staking | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2023-12-flatmoney/report.md) | 2024.3 |
