@@ -26,6 +26,8 @@ An independent blockchain security researcher currently active in audit contests
 
 | Contest | Category | Site | Report | Date |
 | - | - | :-: | :-: | :-: |
+| [OndoFinance](https://code4rena.com/audits/2024-03-ondo-finance) | Stablecoin | C4R | - | 2024.4 |
+| [WiseLending](https://code4rena.com/audits/2024-02-wise-lending) | Lending | C4R | - | 2024.4 |
 | [RevertLend](https://code4rena.com/audits/2024-03-revert-lend) | UniswapV3, Lending | C4R | - | 2024.4 |
 | [AiArena](https://code4rena.com/audits/2024-02-ai-arena#top) | On-chain AI Game | C4R | - | 2024.3 |
 | [AltheaLiquid](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure) | On-chain Liquidity | C4R | - | 2024.3 |
