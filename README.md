@@ -27,6 +27,7 @@ An independent blockchain security researcher currently active in audit contests
 
 | Contest | Category | Site | Report | Date |
 | - | - | :-: | :-: | :-: |
+| [Panoptic](https://code4rena.com/audits/2024-04-panoptic) | Perpetual, UniswapV3 | C4R | - | 2024.5 |
 | [OndoFinance](https://code4rena.com/audits/2024-03-ondo-finance) | Stablecoin | C4R | - | 2024.4 |
 | [WiseLending](https://code4rena.com/audits/2024-02-wise-lending) | Lending | C4R | - | 2024.4 |
 | [RevertLend](https://code4rena.com/audits/2024-03-revert-lend) | UniswapV3, Lending | C4R | - | 2024.4 |
