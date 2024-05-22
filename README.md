@@ -29,10 +29,10 @@ An independent blockchain security researcher currently active in audit contests
 | - | - | :-: | :-: | :-: |
 | [Panoptic](https://code4rena.com/audits/2024-04-panoptic) | Perpetual, UniswapV3 | C4R | - | 2024.5 |
 | [OndoFinance](https://code4rena.com/audits/2024-03-ondo-finance) | Stablecoin | C4R | - | 2024.4 |
-| [WiseLending](https://code4rena.com/audits/2024-02-wise-lending) | Lending | C4R | - | 2024.4 |
+| [WiseLending](https://code4rena.com/audits/2024-02-wise-lending) | Lending | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2024-02-wise-lending/report.md) | 2024.4 |
 | [RevertLend](https://code4rena.com/audits/2024-03-revert-lend) | UniswapV3, Lending | C4R | - | 2024.4 |
-| [AiArena](https://code4rena.com/audits/2024-02-ai-arena#top) | On-chain AI Game | C4R | - | 2024.3 |
-| [AltheaLiquid](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure) | On-chain Liquidity | C4R | - | 2024.3 |
+| [AiArena](https://code4rena.com/audits/2024-02-ai-arena#top) | On-chain AI Game | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2024-02-ai-arena/report.md) | 2024.3 |
+| [AltheaLiquid](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure) | On-chain Liquidity | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2024-02-althea-liquid/report.md) | 2024.3 |
 | [FlatMoney](https://audits.sherlock.xyz/contests/132) | ETH Staking | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2023-12-flatmoney/report.md) | 2024.3 |
 | [Salty.io](https://code4rena.com/audits/2024-01-saltyio) | DEX | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2024-01-salty/report.md) | 2024.3 |
 | [Covalent](https://audits.sherlock.xyz/contests/127) | Staking | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2023-11-covalent/report.md) | 2024.2 |
