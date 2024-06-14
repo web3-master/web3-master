@@ -27,6 +27,8 @@ An independent blockchain security researcher currently active in audit contests
 
 | Contest | Category | Site | Report | Date |
 | - | - | :-: | :-: | :-: |
+| [Renzo](https://code4rena.com/audits/2024-04-renzo) | EigenLayer, Liquid Restaking | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2024-04-renzo/report.md) | 2024.6 |
+| [Zivoe](https://audits.sherlock.xyz/contests/280) | ITO, Lending | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-03-zivoe/report.md) | 2024.5 |
 | [Panoptic](https://code4rena.com/audits/2024-04-panoptic) | Perpetual, UniswapV3 | C4R | - | 2024.5 |
 | [OndoFinance](https://code4rena.com/audits/2024-03-ondo-finance) | Stablecoin | C4R | - | 2024.4 |
 | [WiseLending](https://code4rena.com/audits/2024-02-wise-lending) | Lending | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2024-02-wise-lending/report.md) | 2024.4 |
