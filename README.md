@@ -12,6 +12,7 @@ An independent blockchain security researcher currently active in audit contests
 - Code4rena - [Daniel Armstrong](https://code4rena.com/@DanielArmstrong)
 - X - [@daniel_arms90](https://twitter.com/daniel_arms90)
 - Email - dany.armstrong90@gmail.com
+- Skype - [Daniel Armstrong](https://join.skype.com/invite/ljuOz3u5cHj5)
 - Telegram - [@danyarmstrong](https://t.co/z2Dh3zpqj3)
 - Discord - #dany_armstrong
 
@@ -21,7 +22,7 @@ An independent blockchain security researcher currently active in audit contests
 - Frameworks: Hardhat, Truffle, Foundry, Anchor, Node.js, 
 - Libraries: OpenZeppelin, MetaPlex, Web3.js, Ethers.js, TypeChain, Waffle, Chai, React.js, Vue.js, Antd, libsnark, circom
 - Tools: Ganache, Remix, MetaMask, Infura, IPFS, Slither, snarkjs
-- Protocols: ERC20, ERC721, ERC1155, EIP-2535 Diamond Standard, UniSwap, Curve, Balancer, MakerDAO, AAVE, Compound, BitMex, LayerZero, zkSNARK
+- Protocols: ERC20, ERC721, ERC1155, EIP-2535 Diamond Standard, EIP-4626, UniSwap, Curve, Balancer, MakerDAO, AAVE, Compound, BitMex, LayerZero, EigenLayer, zkSNARK
 
 ## Audit Contests 📝
 
