@@ -1,4 +1,4 @@
-# About me, Daniel Armstrong
+# About me, Web3-Master
 An independent blockchain security researcher currently active in audit contests on platforms such as Code4rena, Sherlock, and Immunefi.
 
 ## Major Highlights 🏆
