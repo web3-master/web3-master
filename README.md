@@ -28,6 +28,10 @@ An independent blockchain security researcher currently active in audit contests
 
 | Contest | Category | Site | Report | Date |
 | - | - | :-: | :-: | :-: |
+| [Velocimeter](https://audits.sherlock.xyz/contests/442) | DEX | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-06-velocimeter/report.md) | 2024.8 |
+| [MagicSea](https://audits.sherlock.xyz/contests/437) | DEX | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-06-magicsea/report.md) | 2024.8 |
+| [Vultsig](https://code4rena.com/audits/2024-06-vultisig) | Vault, Multi-chain | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2024-06-vultisig/report.md) | 2024.8 |
+| [Size](https://code4rena.com/audits/2024-06-size) | Lending | C4R | - | 2024.8 |
 | [Elfi](https://audits.sherlock.xyz/contests/329/leaderboard) | Perpetual | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-05-elfi/report.md) | 2024.7 |
 | [PoolTogether](https://audits.sherlock.xyz/contests/225) | Prize Savings Game | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-05-pooltogether/report.md) | 2024.7 |
 | [NOYA](https://code4rena.com/audits/2024-04-noya) | Omnichain Liquidity Management | C4R | - | 2024.7 |
