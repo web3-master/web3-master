@@ -10,6 +10,7 @@ An independent blockchain security researcher currently active in audit contests
 ## Profiles, Contact Me 📫
 - Sherlock - [dany.armstrong90](https://audits.sherlock.xyz/watson/dany.armstrong90)
 - Code4rena - [Daniel Armstrong](https://code4rena.com/@DanielArmstrong)
+- CodeHawks - [Daniel Armstrong](https://profiles.cyfrin.io/u/danielarmstrong)
 - X - [@daniel_arms90](https://twitter.com/daniel_arms90)
 - Email - dany.armstrong90@gmail.com
 - Skype - [Daniel Armstrong](https://join.skype.com/invite/ljuOz3u5cHj5)
@@ -28,6 +29,16 @@ An independent blockchain security researcher currently active in audit contests
 
 | Contest | Category | Site | Report | Date |
 | - | - | :-: | :-: | :-: |
+| [Predict.fun](https://audits.sherlock.xyz/contests/561) | Lending | Sherlock | - | 2024.10 |
+| [Flayer](https://audits.sherlock.xyz/contests/468) | NFT, Liquidity, UniswapV4 | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-10-flayer/report.md) | 2024.10 |
+| [Rumpel](https://audits.sherlock.xyz/contests/494) | Tokenization | Sherlock | - | 2024.10 |
+| [Sentimentv2](https://audits.sherlock.xyz/contests/349) | Lending | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-10-sentimentv2/report.md) | 2024.10 |
+| [Phi](https://code4rena.com/audits/2024-08-phi) | Identity | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2024-10-phi/report.md) | 2024.10 |
+| [Winnables](https://audits.sherlock.xyz/contests/516) | Game | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-09-winnables/report.md) | 2024.9 |
+| [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | Pre-market | CodeHawks | [📄](https://github.com/web3-master/audit-reports/blob/main/codehawks/2024-09-taddle/report.md) | 2024.9 |
+| [MakerDAO](https://audits.sherlock.xyz/contests/333) | DAI, Stablecoin | Sherlock | - | 2024.9 |
+| [Zaros](https://codehawks.cyfrin.io/c/2024-07-zaros) | Perpetual, DEX | CodeHawks | [📄](https://github.com/web3-master/audit-reports/blob/main/codehawks/2024-09-zaros/report.md) | 2024.9 |
+| [Fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | Token Staking | CodeHawks | [📄](https://github.com/web3-master/audit-reports/blob/main/codehawks/2024-09-fjord/report.md) | 2024.9 |
 | [Velocimeter](https://audits.sherlock.xyz/contests/442) | DEX | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-06-velocimeter/report.md) | 2024.8 |
 | [MagicSea](https://audits.sherlock.xyz/contests/437) | DEX | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-06-magicsea/report.md) | 2024.8 |
 | [Vultsig](https://code4rena.com/audits/2024-06-vultisig) | Vault, Multi-chain | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2024-06-vultisig/report.md) | 2024.8 |
