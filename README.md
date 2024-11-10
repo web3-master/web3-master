@@ -11,6 +11,7 @@ An independent blockchain security researcher currently active in audit contests
 - Sherlock - [dany.armstrong90](https://audits.sherlock.xyz/watson/dany.armstrong90)
 - Code4rena - [Daniel Armstrong](https://code4rena.com/@DanielArmstrong)
 - CodeHawks - [Daniel Armstrong](https://profiles.cyfrin.io/u/danielarmstrong)
+- Immunefi - [Daniel Armstrong](https://immunefi.com/profile/dany_armstrong)
 - X - [@daniel_arms90](https://twitter.com/daniel_arms90)
 - Email - dany.armstrong90@gmail.com
 - Skype - [Daniel Armstrong](https://join.skype.com/invite/ljuOz3u5cHj5)
