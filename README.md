@@ -2,6 +2,7 @@
 An independent blockchain security researcher currently active in audit contests on platforms such as Code4rena, Sherlock, and Immunefi.
 
 ## Major Highlights 🏆
+- [🥉3rd placing in Sherlock contest for Usual](https://x.com/sherlockdefi/status/1862497488915013878)
 - [🥉3rd placing in Sherlock contest for Olympus RBS 2.0](https://x.com/sherlockdefi/status/1759934562488967389?s=20)
 - [🥉3rd placing in Sherlock contest for Avail](https://x.com/sherlockdefi/status/1751899064524795966?s=20)
 - [Certified Risk Finder in Sherlock (Top 2.38%)](https://audits.sherlock.xyz/profile/milestones/25274)
@@ -30,6 +31,15 @@ An independent blockchain security researcher currently active in audit contests
 
 | Contest | Category | Site | Report | Date |
 | - | - | :-: | :-: | :-: |
+| [Debita](https://audits.sherlock.xyz/contests/627) | NFT, Lending | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-12-debita/report.md) | 2024.12 |
+| [Ethos](https://audits.sherlock.xyz/contests/584) | On-chain Social | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-12-ethos/report.md) | 2024.12 |
+| [Usual](https://audits.sherlock.xyz/contests/575) | Stablecoin | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-11-usual/report.md) | 2024.11 |
+| [vvv](https://audits.sherlock.xyz/contests/647) | Token Vesting | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-11-vvv/report.md) | 2024.11 |
+| [Stakelink](https://codehawks.cyfrin.io/c/2024-09-stakelink) | Liquid Staking | CodeHawks | [📄](https://github.com/web3-master/audit-reports/blob/main/codehawks/2024-11-stakelink/report.md) | 2024.11 |
+| [Kleidi](https://code4rena.com/audits/2024-10-kleidi) | Multisig Wallet | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2024-11-kleidi/report.md) | 2024.11 |
+| [Chakra](https://code4rena.com/audits/2024-08-chakra) | Bitcoin | C4R | - | 2024.11 |
+| [AXION](https://audits.sherlock.xyz/contests/552) | Stablecoin | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-11-axion/report.md) | 2024.11 |
+| [ZeroLend](https://audits.sherlock.xyz/contests/466) | Lending, Multi-chain | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-10-zerolend/report.md) | 2024.10 |
 | [Predict.fun](https://audits.sherlock.xyz/contests/561) | Lending | Sherlock | - | 2024.10 |
 | [Flayer](https://audits.sherlock.xyz/contests/468) | NFT, Liquidity, UniswapV4 | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-10-flayer/report.md) | 2024.10 |
 | [Rumpel](https://audits.sherlock.xyz/contests/494) | Tokenization | Sherlock | - | 2024.10 |
