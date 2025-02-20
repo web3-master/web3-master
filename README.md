@@ -1,5 +1,5 @@
 # About me, Web3-Master
-An independent blockchain security researcher currently active in audit contests on platforms such as Code4rena, Sherlock, and Immunefi.
+An independent blockchain security researcher currently active in audit contests on platforms such as Code4rena, Sherlock, CodeHawks and Immunefi.
 
 ## Major Highlights 🏆
 - [🥉3rd placing in Sherlock contest for Usual](https://x.com/sherlockdefi/status/1862497488915013878)
@@ -31,6 +31,8 @@ An independent blockchain security researcher currently active in audit contests
 
 | Contest | Category | Site | Report | Date |
 | - | - | :-: | :-: | :-: |
+| [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | DEX | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2025-01-secondswap/report.md) | 2025.1 |
+| [Autonomint](https://audits.sherlock.xyz/contests/569) | Stablecoin | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2025-01-autonomint/report.md) | 2025.1 |
 | [Debita](https://audits.sherlock.xyz/contests/627) | NFT, Lending | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-12-debita/report.md) | 2024.12 |
 | [Ethos](https://audits.sherlock.xyz/contests/584) | On-chain Social | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-12-ethos/report.md) | 2024.12 |
 | [Usual](https://audits.sherlock.xyz/contests/575) | Stablecoin | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-11-usual/report.md) | 2024.11 |
