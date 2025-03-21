@@ -31,6 +31,10 @@ An independent blockchain security researcher currently active in audit contests
 
 | Contest | Category | Site | Report | Date |
 | - | - | :-: | :-: | :-: |
+| [Zaros Part 2](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2) | Perpetual, DEX | CodeHawks | [📄](https://github.com/web3-master/audit-reports/blob/main/codehawks/2025-02-zaros2/report.md) | 2025.3 |
+| [IQ AI](https://code4rena.com/audits/2025-01-iq-ai) | Tokenization | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2025-02-iqai/report.md) | 2025.2 |
+| [QuantAMM](https://codehawks.cyfrin.io/c/2024-12-quantamm) | AMM, DEX | CodeHawks | [📄](https://github.com/web3-master/audit-reports/blob/main/codehawks/2025-02-quantamm/report.md) | 2025.2 |
+| [PlazaFinance](https://audits.sherlock.xyz/contests/682) | Bond | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2025-02-plazafinance/report.md) | 2025.2 |
 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | DEX | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2025-01-secondswap/report.md) | 2025.1 |
 | [Autonomint](https://audits.sherlock.xyz/contests/569) | Stablecoin | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2025-01-autonomint/report.md) | 2025.1 |
 | [Debita](https://audits.sherlock.xyz/contests/627) | NFT, Lending | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2024-12-debita/report.md) | 2024.12 |
