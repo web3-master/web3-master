@@ -99,6 +99,8 @@ An independent blockchain security researcher currently active in audit contests
 
 | Project | Category | Severity | Site | Report | Date |
 | - | - | :-: | :-: | :-: | :-: |
+| [IPOR](https://bugs.immunefi.com/dashboard/submission/42078) | Interest Rate Swap | Low | Immunefi | - | 2025.3 |
+| [Alpaca Finance](https://bugs.immunefi.com/dashboard/submission/38064) | Lending | Low | Immunefi | - | 2025.1 |
 | [Stader for ETH](https://bugs.immunefi.com/dashboard/submission/36695) | Ethereum Staking | Medium | Immunefi | - | 2024.11 |
 | [DFX Finance](https://bugs.immunefi.com/dashboard/submission/26076) | Stablecoin Swap, DEX | Medium | Immunefi | - | 2023.11 |
 
