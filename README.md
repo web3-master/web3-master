@@ -15,7 +15,6 @@ An independent blockchain security researcher currently active in audit contests
 - Immunefi - [Daniel Armstrong](https://immunefi.com/profile/dany_armstrong)
 - X - [@daniel_arms90](https://twitter.com/daniel_arms90)
 - Email - dany.armstrong90@gmail.com
-- Skype - [Daniel Armstrong](https://join.skype.com/invite/ljuOz3u5cHj5)
 - Telegram - [@danyarmstrong](https://t.co/z2Dh3zpqj3)
 - Discord - #dany_armstrong
 
