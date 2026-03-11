@@ -30,15 +30,15 @@ An independent blockchain security researcher currently active in audit contests
 
 | Project | Category | Severity | Site | Report | Date |
 | - | - | :-: | :-: | :-: | :-: |
-| [Enzyme Onyx](https://bugs.immunefi.com/dashboard/submission/68754) | Token | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-onyx/report.md) | 2026.3 |
-| [Lista DAO](https://bugs.immunefi.com/dashboard/submission/68533) | Lending | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-listadao/report-2.md) | 2026.3 |
-| [Lista DAO](https://bugs.immunefi.com/dashboard/submission/68282) | Lending | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-listadao/report-1.md) | 2026.3 |
-| [MerchantMoe](https://bugs.immunefi.com/dashboard/submission/67762) | Lending | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-merchantmoe/report-2.md) | 2026.3 |
-| [MerchantMoe](https://bugs.immunefi.com/dashboard/submission/67731) | Lending | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-merchantmoe/report-1.md) | 2026.3 |
-| [IPOR](https://bugs.immunefi.com/dashboard/submission/42078) | Interest Rate Swap | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2025-03-ipor/report.md) | 2025.3 |
-| [Alpaca Finance](https://bugs.immunefi.com/dashboard/submission/38064) | Lending | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2025-01-alpacafinance/report.md) | 2025.1 |
-| [Stader for ETH](https://bugs.immunefi.com/dashboard/submission/36695) | Ethereum Staking | Medium | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2024-11-ethx/report.md) | 2024.11 |
-| [DFX Finance](https://bugs.immunefi.com/dashboard/submission/26076) | Stablecoin Swap, DEX | Medium | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2023-11-dfxfinance/report.md) | 2023.11 |
+| [Enzyme Onyx](https://bugs.immunefi.com/dashboard/submission/68754) | Token | Medium | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-onyx/report.md) | 2026.3 |
+| [Lista DAO](https://bugs.immunefi.com/dashboard/submission/68533) | Lending | Medium | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-listadao/report-2.md) | 2026.3 |
+| [Lista DAO](https://bugs.immunefi.com/dashboard/submission/68282) | Lending | Critical | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-listadao/report-1.md) | 2026.3 |
+| [MerchantMoe](https://bugs.immunefi.com/dashboard/submission/67762) | Lending | Medium | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-merchantmoe/report-2.md) | 2026.3 |
+| [MerchantMoe](https://bugs.immunefi.com/dashboard/submission/67731) | Lending | Medium | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-merchantmoe/report-1.md) | 2026.3 |
+| [IPOR](https://bugs.immunefi.com/dashboard/submission/42078) | Interest Rate Swap | High | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2025-03-ipor/report.md) | 2025.3 |
+| [Alpaca Finance](https://bugs.immunefi.com/dashboard/submission/38064) | Lending | High | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2025-01-alpacafinance/report.md) | 2025.1 |
+| [Stader for ETH](https://bugs.immunefi.com/dashboard/submission/36695) | Ethereum Staking | High | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2024-11-ethx/report.md) | 2024.11 |
+| [DFX Finance](https://bugs.immunefi.com/dashboard/submission/26076) | Stablecoin Swap, DEX | High | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2023-11-dfxfinance/report.md) | 2023.11 |
 
 
 ## Audit Contests 📝
