@@ -26,6 +26,21 @@ An independent blockchain security researcher currently active in audit contests
 - Tools: Ganache, Remix, MetaMask, Infura, IPFS, Slither, snarkjs
 - Protocols: ERC20, ERC721, ERC1155, EIP-2535 Diamond Standard, EIP-4626, UniSwap, Curve, Balancer, MakerDAO, AAVE, Compound, BitMex, LayerZero, EigenLayer, zkSNARK
 
+## Bug Bounty 📝
+
+| Project | Category | Severity | Site | Report | Date |
+| - | - | :-: | :-: | :-: | :-: |
+| [Enzyme Onyx](https://bugs.immunefi.com/dashboard/submission/68754) | Token | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2025-03-onyx/report.md) | 2026.3 |
+| [Lista DAO](https://bugs.immunefi.com/dashboard/submission/68533) | Lending | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-listadao/report-2.md) | 2026.3 |
+| [Lista DAO](https://bugs.immunefi.com/dashboard/submission/68282) | Lending | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-listadao/report-1.md) | 2026.3 |
+| [MerchantMoe](https://bugs.immunefi.com/dashboard/submission/67762) | Lending | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-merchantmoe/report-2.md) | 2026.3 |
+| [MerchantMoe](https://bugs.immunefi.com/dashboard/submission/67731) | Lending | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-merchantmoe/report-1.md) | 2026.3 |
+| [IPOR](https://bugs.immunefi.com/dashboard/submission/42078) | Interest Rate Swap | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2025-03-ipor/report.md) | 2025.3 |
+| [Alpaca Finance](https://bugs.immunefi.com/dashboard/submission/38064) | Lending | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2025-01-alpacafinance/report.md) | 2025.1 |
+| [Stader for ETH](https://bugs.immunefi.com/dashboard/submission/36695) | Ethereum Staking | Medium | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2024-11-ethx/report.md) | 2024.11 |
+| [DFX Finance](https://bugs.immunefi.com/dashboard/submission/26076) | Stablecoin Swap, DEX | Medium | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2023-11-dfxfinance/report.md) | 2023.11 |
+
+
 ## Audit Contests 📝
 
 | Contest | Category | Site | Report | Date |
@@ -92,16 +107,6 @@ An independent blockchain security researcher currently active in audit contests
 | [GoodEntry](https://code4rena.com/contests/2023-08-good-entry) | UniswapV3, Perpetual Option | C4R | [📄](https://github.com/web3-master/audit-reports/blob/main/c4r/2023-08-goodentry/report.md) | 2023.9 |
 | [TokenSoft](https://audits.sherlock.xyz/contests/100) | Token Vesting | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2023-06-tokensoft/report.md) | 2023.8 |
 | [Index Update](https://audits.sherlock.xyz/contests/91) | Token Issuance Strategy | Sherlock | [📄](https://github.com/web3-master/audit-reports/blob/main/sherlock/2023-06-Index/report.md) | 2023.8 |
-
-
-## Bug Bounty 📝
-
-| Project | Category | Severity | Site | Report | Date |
-| - | - | :-: | :-: | :-: | :-: |
-| [IPOR](https://bugs.immunefi.com/dashboard/submission/42078) | Interest Rate Swap | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2025-03-ipor/report.md) | 2025.3 |
-| [Alpaca Finance](https://bugs.immunefi.com/dashboard/submission/38064) | Lending | Low | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2025-01-alpacafinance/report.md) | 2025.1 |
-| [Stader for ETH](https://bugs.immunefi.com/dashboard/submission/36695) | Ethereum Staking | Medium | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2024-11-ethx/report.md) | 2024.11 |
-| [DFX Finance](https://bugs.immunefi.com/dashboard/submission/26076) | Stablecoin Swap, DEX | Medium | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2023-11-dfxfinance/report.md) | 2023.11 |
 
 
 
