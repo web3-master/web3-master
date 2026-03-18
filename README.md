@@ -30,6 +30,7 @@ An independent blockchain security researcher currently active in audit contests
 
 | Project | Category | Severity | Site | Report | Date |
 | - | - | :-: | :-: | :-: | :-: |
+| [Enzyme Blue](https://bugs.immunefi.com/dashboard/submission/69861) | Asset Manage | Medium | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-enzyme/report.md) | 2026.3 |
 | [Enzyme Onyx](https://bugs.immunefi.com/dashboard/submission/68754) | Token | Medium | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-onyx/report.md) | 2026.3 |
 | [Lista DAO](https://bugs.immunefi.com/dashboard/submission/68533) | Lending | Medium | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-listadao/report-2.md) | 2026.3 |
 | [Lista DAO](https://bugs.immunefi.com/dashboard/submission/68282) | Lending | Critical | Immunefi | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-listadao/report-1.md) | 2026.3 |
