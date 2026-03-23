@@ -13,6 +13,7 @@ An independent blockchain security researcher currently active in audit contests
 - Code4rena - [Daniel Armstrong](https://code4rena.com/@DanielArmstrong)
 - CodeHawks - [Daniel Armstrong](https://profiles.cyfrin.io/u/danielarmstrong)
 - Immunefi - [Daniel Armstrong](https://immunefi.com/profile/dany_armstrong)
+- Fiverr - [Dani Armi](https://www.fiverr.com/s/e62LgGE)
 - X - [@daniel_arms90](https://twitter.com/daniel_arms90)
 - Email - dany.armstrong90@gmail.com
 - Telegram - [@danyarmstrong](https://t.co/z2Dh3zpqj3)
@@ -30,6 +31,7 @@ An independent blockchain security researcher currently active in audit contests
 
 | Project | Category | Severity | Bug Type | Report | Date |
 | - | - | :-: | :-: | :-: | :-: |
+| [TermMax](https://bugs.immunefi.com/dashboard/submission/70593) | Lending | Medium | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-termmax/report.md) | 2026.3 |
 | [GoGoPool](https://bugs.immunefi.com/dashboard/submission/70068) | Liquid Staking | Medium | Precision Loss | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-gogopool/report.md) | 2026.3 |
 | [Enzyme Blue](https://bugs.immunefi.com/dashboard/submission/69861) | Asset Manage | Medium | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-enzyme/report.md) | 2026.3 |
 | [Enzyme Onyx](https://bugs.immunefi.com/dashboard/submission/68754) | Token | Medium | Griefing, DoS | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-onyx/report.md) | 2026.3 |
