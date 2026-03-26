@@ -31,14 +31,15 @@ An independent blockchain security researcher currently active in audit contests
 
 | Project | Category | Severity | Bug Type | Report | Date |
 | - | - | :-: | :-: | :-: | :-: |
-| [TermMax](https://bugs.immunefi.com/dashboard/submission/70593) | Lending | Medium | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-termmax/report.md) | 2026.3 |
+| [TermMax 2](https://bugs.immunefi.com/dashboard/submission/70871) | Fixed Rate Lending | High | Blacklisted Token | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-termmax/report2.md) | 2026.3 |
+| [TermMax 1](https://bugs.immunefi.com/dashboard/submission/70593) | Fixed Rate Lending | Medium | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-termmax/report1.md) | 2026.3 |
 | [GoGoPool](https://bugs.immunefi.com/dashboard/submission/70068) | Liquid Staking | Medium | Precision Loss | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-gogopool/report.md) | 2026.3 |
 | [Enzyme Blue](https://bugs.immunefi.com/dashboard/submission/69861) | Asset Manage | Medium | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-enzyme/report.md) | 2026.3 |
 | [Enzyme Onyx](https://bugs.immunefi.com/dashboard/submission/68754) | Token | Medium | Griefing, DoS | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-onyx/report.md) | 2026.3 |
-| [Lista DAO](https://bugs.immunefi.com/dashboard/submission/68533) | Lending | Medium | Integer Rounding | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-listadao/report-2.md) | 2026.3 |
-| [Lista DAO](https://bugs.immunefi.com/dashboard/submission/68282) | Lending | Critical | Integer Rounding | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-listadao/report-1.md) | 2026.3 |
-| [MerchantMoe](https://bugs.immunefi.com/dashboard/submission/67762) | Lending | Medium | Blacklisted Token | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-merchantmoe/report-2.md) | 2026.3 |
-| [MerchantMoe](https://bugs.immunefi.com/dashboard/submission/67731) | Lending | Medium | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-merchantmoe/report-1.md) | 2026.3 |
+| [Lista DAO 2](https://bugs.immunefi.com/dashboard/submission/68533) | Lending | Medium | Integer Rounding | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-listadao/report-2.md) | 2026.3 |
+| [Lista DAO 1](https://bugs.immunefi.com/dashboard/submission/68282) | Lending | Critical | Integer Rounding | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-listadao/report-1.md) | 2026.3 |
+| [MerchantMoe 1](https://bugs.immunefi.com/dashboard/submission/67762) | Lending | Medium | Blacklisted Token | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-merchantmoe/report-2.md) | 2026.3 |
+| [MerchantMoe 2](https://bugs.immunefi.com/dashboard/submission/67731) | Lending | Medium | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-merchantmoe/report-1.md) | 2026.3 |
 | [IPOR](https://bugs.immunefi.com/dashboard/submission/42078) | Interest Rate Swap | High | Blacklisted Token | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2025-03-ipor/report.md) | 2025.3 |
 | [Alpaca Finance](https://bugs.immunefi.com/dashboard/submission/38064) | Lending | High | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2025-01-alpacafinance/report.md) | 2025.1 |
 | [Stader for ETH](https://bugs.immunefi.com/dashboard/submission/36695) | Ethereum Staking | High | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2024-11-ethx/report.md) | 2024.11 |
