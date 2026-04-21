@@ -31,6 +31,7 @@ An independent blockchain security researcher currently active in audit contests
 
 | Project | Category | Severity | Bug Type | Report | Date |
 | - | - | :-: | :-: | :-: | :-: |
+| [Orderly](https://bugs.immunefi.com/dashboard/submission/72502) | Vault | Low | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-04-orderly/report.md) | 2026.4 |
 | [TermMax 2](https://bugs.immunefi.com/dashboard/submission/70871) | Fixed Rate Lending | High | Blacklisted Token | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-termmax/report2.md) | 2026.3 |
 | [TermMax 1](https://bugs.immunefi.com/dashboard/submission/70593) | Fixed Rate Lending | Medium | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-termmax/report1.md) | 2026.3 |
 | [GoGoPool](https://bugs.immunefi.com/dashboard/submission/70068) | Liquid Staking | Medium | Precision Loss | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-03-gogopool/report.md) | 2026.3 |
