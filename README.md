@@ -31,6 +31,11 @@ An independent blockchain security researcher currently active in audit contests
 
 | Project | Category | Severity | Bug Type | Report | Date |
 | - | - | :-: | :-: | :-: | :-: |
+| [Twyne](https://bugs.immunefi.com/dashboard/submission/79104) | Lending | Critical | Missing Authorization | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-05-twyne/report.md) | 2026.5 |
+| [Pareto Credit](https://bugs.immunefi.com/dashboard/submission/79221) | Yield Aggregator | High | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-05-pareto/report.md) | 2026.5 |
+| [OnRe](https://bugs.immunefi.com/dashboard/submission/77662) | Yield Bearing | High | Coding Mistake | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-05-onre/report.md) | 2026.5 |
+| [Instadapp](https://bugs.immunefi.com/dashboard/submission/77016) | Synthetic Asset | High | Coding Mistake | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-05-instadapp/report1.md) | 2026.5 |
+| [alchemist](https://bugs.immunefi.com/dashboard/submission/76608) | Synthetic Asset | Low | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-05-alchemist/report1.md) | 2026.5 |
 | [yelay](https://bugs.immunefi.com/dashboard/submission/75499) | Asset Manage | Low | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-04-yieldlayer/report.md) | 2026.4 |
 | [MUX](https://bugs.immunefi.com/dashboard/submission/71945) | Perp | High | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-04-mux/report.md) | 2026.4 |
 | [Orderly](https://bugs.immunefi.com/dashboard/submission/72502) | Vault | Low | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-04-orderly/report.md) | 2026.4 |
