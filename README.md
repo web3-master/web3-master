@@ -31,6 +31,9 @@ An independent blockchain security researcher currently active in audit contests
 
 | Project | Category | Severity | Bug Type | Report | Date |
 | - | - | :-: | :-: | :-: | :-: |
+| [Chainlink](https://bugs.immunefi.com/dashboard/submission/79771) | Oracle | High | Missing Authorization | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-05-chainlink/report.md) | 2026.5 |
+| [Pragma Oracle](https://bugs.immunefi.com/dashboard/submission/80066) | Oracle | High | Math Error | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-05-pragma/report.md) | 2026.5 |
+| [Nexus Mutual](https://bugs.immunefi.com/dashboard/submission/78207) | Insurance | Low | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-05-nexusmutual/report.md) | 2026.5 |
 | [Twyne](https://bugs.immunefi.com/dashboard/submission/79104) | Lending | Critical | Missing Authorization | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-05-twyne/report.md) | 2026.5 |
 | [Pareto Credit](https://bugs.immunefi.com/dashboard/submission/79221) | Yield Aggregator | High | Logic Flaw | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-05-pareto/report.md) | 2026.5 |
 | [OnRe](https://bugs.immunefi.com/dashboard/submission/77662) | Yield Bearing | High | Coding Mistake | [📄](https://github.com/web3-master/audit-reports/blob/main/immunefi/2026-05-onre/report.md) | 2026.5 |
